@@ -68,9 +68,24 @@ Diseñado para ser **"Out-of-Core"** (procesar datos mayores a la RAM disponible
     # Esto generará los archivos .parquet en la carpeta /data
     ```
 
-3.  **Visualizar:**
-    *   Abre `reports/Bepensa_Dashboard.pbix`.
-    *   Actualiza la ruta de origen apuntando a tu carpeta `/data` local.
+
+3. **Visualizar resultados:**
+
+   **Opción A – Dashboard interactivo (recomendado):**
+   * El dashboard completo se encuentra publicado en Power BI Service.
+   * Accede al reporte interactivo en el siguiente enlace:
+     
+     🔗 https://app.powerbi.com/view?r=XXXXXXXXXXXXXXXX
+
+   **Opción B – Resumen Ejecutivo (PDF):**
+   * Para una revisión rápida de los principales KPIs e insights estratégicos,
+     consulta el resumen ejecutivo disponible en el repositorio:
+     
+     📄 `reports/Bepensa_Executive_Summary.pdf`
+
+> **Nota:** El archivo `.pbix` no se incluye en el repositorio debido a su tamaño (>2 GB).
+> Los datos deben ser generados localmente ejecutando el motor de simulación.
+
 
 ---
 
