@@ -58,8 +58,7 @@ Diseñado para ser **"Out-of-Core"** (procesar datos mayores a la RAM disponible
 ### Pasos
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/bepensa-commercial-intelligence.git](https://github.com/tu-usuario/bepensa-commercial-intelligence.git)
-    cd bepensa-commercial-intelligence
+    git clone https://github.com/miguelcustodio162020-ai/bepensa-commercial-intelligence.git
     ```
 
 2.  **Generar la Data (Simulación):**
