@@ -64,7 +64,7 @@ Diseñado para ser **"Out-of-Core"** (procesar datos mayores a la RAM disponible
 2.  **Generar la Data (Simulación):**
     ```bash
     pip install polars numpy pyarrow
-    python src/simulador.py
+    python src/src/simulador_reduced.py
     # Esto generará los archivos .parquet en la carpeta /data
     ```
 
