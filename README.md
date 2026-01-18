@@ -75,7 +75,7 @@ Diseñado para ser **"Out-of-Core"** (procesar datos mayores a la RAM disponible
    * El dashboard completo se encuentra publicado en Power BI Service.
    * Accede al reporte interactivo en el siguiente enlace:
      
-     🔗 https://app.powerbi.com/view?r=XXXXXXXXXXXXXXXX
+     🔗 https://app.powerbi.com/view?r=eyJrIjoiZjk0YTZlMGUtNTRhZi00NDk0LWJhYjQtYTViZjI1NGE2NjVkIiwidCI6IjJjNGJhMzZhLTgyNzEtNGI5OC04NTM4LWU5ZDA5NmE1ZGVkZiIsImMiOjJ9
 
    **Opción B – Resumen Ejecutivo (PDF):**
    * Para una revisión rápida de los principales KPIs e insights estratégicos,
